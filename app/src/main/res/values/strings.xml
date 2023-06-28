@@ -1,0 +1,15 @@
+<resources>
+    <!-- Configurations -->
+    <string name="app_name">DicodingCompose</string>
+    <string name="title_activity_about">About</string>
+    <string name="title_activity_detail">Detail</string>
+    <!-- Main Activity -->
+    <string name="main_user_image">Foto User</string>
+
+    <!-- About -->
+    <string name="about_nama">Putri Cholillah</string>
+    <string name="about_email">putricho4@gmail.com</string>
+    <string name="about_foto">Foto User</string>
+
+    <!-- Detail -->
+</resources>
